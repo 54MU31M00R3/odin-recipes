@@ -1,0 +1,11 @@
+* {
+    color: black;
+    background-color: bisque;
+    text-align: center;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+li {
+    text-align: left;
+}
