@@ -1,7 +1,5 @@
 * {
-    color: black;
     background-color: bisque;
-    text-align: center;
 }
 ul, ol, p, h1, h2{
     font-family: 'Courier New', Courier, monospace;
@@ -15,13 +13,17 @@ li {
 #recipe-name {
     font-weight: bold;
     font-family: cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
 .subheading {
     font-weight: bold;
     font-family: cursive;
-    font-size: 24px;
+    font-size: 30px;
 }
 .text {
     font-size: 20px;
+}
+.return {
+    color: white;
+    text-align: left;
 }
