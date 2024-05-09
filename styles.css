@@ -3,9 +3,25 @@
     background-color: bisque;
     text-align: center;
 }
-ul{
+ul, ol, p, h1, h2{
     font-family: 'Courier New', Courier, monospace;
 }
 li {
     text-align: left;
+}
+.break {
+    background-color: black;
+}
+#recipe-name {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 30px;
+}
+.subheading {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 24px;
+}
+.text {
+    font-size: 20px;
 }
