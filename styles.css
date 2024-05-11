@@ -1,9 +1,12 @@
 * {
     background-color: bisque;
+    padding: 10px;
+    
 }
 ul, ol, p, h1, h2{
     font-family: 'Courier New', Courier, monospace;
-    margin: 100px;
+    margin: 0px auto;
+    border-bottom: 2px solid black;
 }
 h1 {
     margin-bottom: 0px auto;
@@ -14,6 +17,7 @@ a {
 li {
     text-align: left;
     padding-bottom: 30px;
+    
 }
 .break {
     background-color: black;
